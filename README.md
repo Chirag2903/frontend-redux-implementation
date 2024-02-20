@@ -1,3 +1,10 @@
+![image](https://github.com/Chirag2903/frontend-redux-implementation/assets/100855095/78c1bfbc-eee4-4932-89e7-3ee6919d1536)
+
+![image](https://github.com/Chirag2903/frontend-redux-implementation/assets/100855095/1148e085-f6ae-4ce0-b1f7-7faa5af6ce62)
+
+![image](https://github.com/Chirag2903/frontend-redux-implementation/assets/100855095/46f431de-65d8-4d71-be90-62b2c4738ea6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
