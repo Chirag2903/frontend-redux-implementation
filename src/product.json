@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "ASUS ROG Strix G15 (2022) AMD Ryzen 7",
+        "price": 75990,
+        "imgSrc": "https://rukminim2.flixcart.com/image/416/416/l0vbukw0/computer/z/o/e/-original-imagckcfz6jgjn3z.jpeg?q=70&crop=false",
+        "description": "You can enjoy an immersive and engaging gaming experience on the ASUS ROG Strix G15 Gaming Laptop. With its focused power, this laptop streamlines and enhances the gaming experience on Windows 11 Home. Gaming and smooth, rapid multitasking are made possible by this laptop's AMD Ryzen 4000H-Series CPU and GeForce RTX 30-series GPU. You can play fast esports on this laptop as its display has a refresh rate of up to 144 Hz."
+    },
+    {
+        "id": "2",
+        "name": "OnePlus Nord CE 3 Lite 5G",
+        "price": 18200,
+        "imgSrc": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/l/7/k/-original-imagtxvur9yrxvru.jpeg?q=70&crop=false",
+        "description": "Unleash the power of 8 GB RAM and 128 GB ROM for seamless multitasking and ample storage. Enjoy immersive visuals on a 17.07 cm (6.72 inch) display, while capturing stunning detail with a 108MP rear camera. Stay connected longer with a robust 5000 mAh battery, making this device the ultimate companion for your on-the-go lifestyle."
+    },
+    {
+        "id": "3",
+        "name": "Canon EOS 3000D DSLR Camera",
+        "price": 31000,
+        "imgSrc": "https://rukminim2.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70&crop=false",
+        "description": "If you are a photography enthusiast, then the Canon EOS 3000D DSLR Camera is a must-have gadget. Featuring an 18 MP (APS-C) CMOS sensor and the DIGIC 4+ imaging processor, you can capture amazing photos of your subject at all times, even in low-light conditions. Moreover, the remote Live View function lets you control this camera remotely using your smartphone so you can capture amazing photos even from a distance."
+    },
+    {
+        "id": "4",
+        "name": "Alis Blue Quadcopter Drone Drone",
+        "price": 5500,
+        "imgSrc": "https://rukminim2.flixcart.com/image/416/416/xif0q/drone/9/8/h/10-25-1-blue-quadcopter-3-batteries-combo-inferno-original-imagj8fxgwhpfng6.jpeg?q=70&crop=false",
+        "description": "Frequency: 2.4G Channel: 4CH Motor: 816 Coreless Motor Quadcopter Battery: 3.7V 1800mAh Lipo (Included) Transmitter Battery: 3x 1.5 AA Battery Flying time: 10-30 mins(Approx) Charging time: 100mins R/C Distance: 100m Color: Black Dual Camera: 1080P / 4K Quad's Size: 25*20*5.5 CM (the arms not folded) 12.5*8*5.5 CM (the arms folded) Function: Up/down, Forward/backward, Turn left/right, Sideward flight, 3-level flight speed, LED Light, Headless Mode, One Key Automatic Return, Altitude Hold Mode, WiFi FPV, Trajectory Flight, Feature: -Trajectory Flight."
+    }
+]

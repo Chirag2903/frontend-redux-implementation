@@ -1,0 +1,87 @@
+@import "color";
+
+
+.home {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.home-intro {
+    width: 85%;
+    height: 15vh;
+    background-color: goldenrod;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-intro h1 {
+    color: white;
+    font-weight: 600;
+}
+
+.home-products {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.productcard {
+    background-color: $tertiary;
+    width: 280px;
+    margin: 1rem;
+    border-radius: 5px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 20px;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    p {
+        margin-top: 1rem;
+    }
+
+    h4 {
+        margin: 1rem 0 1rem 0;
+    }
+
+    button {
+        cursor: pointer;
+        // background-color: $secondary;
+        background-color: goldenrod;
+        border: none;
+        padding: 1rem;
+        color: $tertiary;
+        border-radius: 5px;
+        transition: all 0.5s;
+        width: 100%;
+        font-weight: 500;
+
+        &:hover {
+            background-color: rgb(190, 137, 2);
+        }
+    }
+
+    &:hover {
+        transform: scale(1.05);
+    }
+}

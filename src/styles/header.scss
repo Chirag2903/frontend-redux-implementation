@@ -1,0 +1,41 @@
+@import "color";
+
+nav {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 100%;
+    height: 12vh;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 3px 5px;
+
+    >div {
+        display: flex;
+        align-items: center;
+
+        >a {
+            color: $primary;
+            font-size: 1.2rem;
+            margin: 0 1rem;
+            transition: all 0.3s;
+
+            &:hover {
+                color: goldenrod;
+            }
+
+            >p {
+                position: absolute;
+                background-color: $tertiary;
+                border-radius: 50%;
+                width: 15px;
+                height: 15px;
+                font: 900 0.7rem "Roboto";
+                display: grid;
+                place-items: center;
+                transform: translate(80%, -80%);
+            }
+        }
+
+    }
+}
